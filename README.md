@@ -1,5 +1,4 @@
 # IaC_code_generator
-# IaC Security Policy Generator
 
 A comprehensive security analysis tool for Infrastructure as Code (IaC) files. This application analyzes Terraform, CloudFormation, and Kubernetes configurations to identify security vulnerabilities and provides AI-powered remediation suggestions.
 
